@@ -134,12 +134,12 @@
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(2 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
         [SVProgressHUD dismiss];
         
-        BOOL usernameIsValid = ![username isEqualToString:@"Fdd"];
-        BOOL pwdIsValid = ![password isEqualToString:@"fdd"];
-        if (usernameIsValid || pwdIsValid) {
-            [SVProgressHUD showErrorWithStatus:LocalizedString(login.result.error)];
-            return;
-        }
+//        BOOL usernameIsValid = ![username isEqualToString:@"Fdd"];
+//        BOOL pwdIsValid = ![password isEqualToString:@"fdd"];
+//        if (usernameIsValid || pwdIsValid) {
+//            [SVProgressHUD showErrorWithStatus:LocalizedString(login.result.error)];
+//            return;
+//        }
         UIViewController *pushCtrl = self.pushCtrl;
         [MTRouter.router executeUrl:@"main://setUserInfo"
                          parameters:NSDictionaryOfVariableBindings(pushCtrl, username, password)];

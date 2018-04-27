@@ -6,7 +6,7 @@
 //  Copyright © 2018年 meitu. All rights reserved.
 //
 
-#import "MTViewController.h"
+#import <CommonModule/CommonModule.h>
 
 /**
  登陆
