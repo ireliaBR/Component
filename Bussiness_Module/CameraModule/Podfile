@@ -1,0 +1,17 @@
+
+platform :ios, '8.0'
+
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'CameraModule' do
+    
+    pod 'MTRouter'
+    pod 'CommonModule', :path => '../../System_Module/CommonModule'
+
+    pod 'Masonry'
+    pod 'SDWebImage'
+    pod 'GPUImage'
+    
+end
+

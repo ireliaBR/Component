@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SettingController.titleView.textColor</key>
+	<string>0x000000</string>
+	<key>SettingController.cell.backgroundColor</key>
+	<string>0x33CCFF</string>
+	<key>SettingController.cell.nameLabel.textColor</key>
+	<string>0x4a4a4a</string>
+	<key>SettingController.cell.memoLabel.textColor</key>
+	<string>0x4b585e</string>
+	<key>SettingController.cell.lineView.backgroundColor</key>
+	<string>0x000000</string>
+	<key>ThemeController.cell.backgroundColor</key>
+	<string>0x33CCFF</string>
+	<key>ThemeController.cell.nameLabel.textColor</key>
+	<string>0x4a4a4a</string>
+	<key>ThemeController.cell.lineView.backgroundColor</key>
+	<string>0x000000</string>
+	<key>ThemeController.titleView.textColor</key>
+	<string>0x000000</string>
+	<key>LanguageController.titleView.textColor</key>
+	<string>0x000000</string>
+	<key>HomepageController.camerBtn.backgroundColor</key>
+	<string>0x33CCFF</string>
+</dict>
+</plist>

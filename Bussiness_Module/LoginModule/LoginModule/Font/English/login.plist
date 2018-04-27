@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LoginController.usernameTextField.placeholder</key>
+	<string>please input telephone</string>
+	<key>LoginController.pwdTextField.placeholder</key>
+	<string>please input pwd</string>
+	<key>LoginController.pwdMemoLabel.text</key>
+	<string>pwd</string>
+	<key>LoginController.loginBtn.text</key>
+	<string>login</string>
+</dict>
+</plist>

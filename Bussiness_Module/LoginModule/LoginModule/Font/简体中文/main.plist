@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SettingController.titleView.text</key>
+	<string>设置</string>
+	<key>SettingController.cell.nameLabel.theme.text</key>
+	<string>我的主题</string>
+	<key>SettingController.cell.nameLabel.language.text</key>
+	<string>我的语言</string>
+	<key>ThemeController.titleView.text</key>
+	<string>多主题设置</string>
+	<key>LanguageController.titleView.text</key>
+	<string>多语言设置</string>
+	<key>HomepageController.cameraBtn.text</key>
+	<string>自拍</string>
+	<key>HomepageController.nameLabel.text</key>
+	<string>登陆美颜相机，享受专属的美丽吧</string>
+</dict>
+</plist>

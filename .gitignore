@@ -1,0 +1,13 @@
+
+
+**/Pods
+**/Podfile.lock
+**/*.xcworkspace
+
+**/build/
+
+
+**/ipa/
+
+.DS_Store
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LoginController.usernameTextField.placeholder</key>
+	<string>请输入手机号码</string>
+	<key>LoginController.pwdTextField.placeholder</key>
+	<string>请输入密码</string>
+	<key>LoginController.pwdMemoLabel.text</key>
+	<string>密码</string>
+	<key>LoginController.loginBtn.text</key>
+	<string>登陆</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'MainModule' do
+    
+    pod 'MTRouter'
+    pod 'MTTheme'
+    pod 'CommonModule', :path => '../../System_Module/CommonModule'
+    pod 'LoginModule', :path => '../../Bussiness_Module/LoginModule'
+
+    
+    pod 'Masonry'
+    pod 'SDWebImage'
+    
+end
+

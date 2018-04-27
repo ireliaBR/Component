@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SettingController.titleView.text</key>
+	<string>Settings</string>
+	<key>SettingController.cell.nameLabel.theme.text</key>
+	<string>my theme</string>
+	<key>SettingController.cell.nameLabel.language.text</key>
+	<string>my language</string>
+	<key>ThemeController.titleView.text</key>
+	<string>multi theme setting</string>
+	<key>LanguageController.titleView.text</key>
+	<string>multi language setting</string>
+	<key>HomepageController.cameraBtn.text</key>
+	<string>Camera</string>
+	<key>HomepageController.nameLabel.text</key>
+	<string>login beauty camera, share your photo</string>
+</dict>
+</plist>

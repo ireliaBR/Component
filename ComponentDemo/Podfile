@@ -1,0 +1,23 @@
+
+platform :ios, '8.0'
+#use_frameworks!
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ComponentDemo' do
+    
+    pod 'MTRouter'
+    pod 'MTTheme'
+    
+    pod 'CommonModule', :path => '../System_Module/CommonModule'
+    pod 'MainModule', :path => '../Bussiness_Module/MainModule'
+    pod 'CameraModule', :path => '../Bussiness_Module/CameraModule'
+    pod 'LoginModule', :path => '../Bussiness_Module/LoginModule'
+
+    pod 'Masonry'
+    pod 'SDWebImage'
+    pod 'GPUImage'
+    pod 'SVProgressHUD'
+    
+end
+
